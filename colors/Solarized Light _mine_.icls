@@ -4,13 +4,12 @@
     <property name="created">2019-03-26T15:56:30</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2020-07-23T10:22:32</property>
+    <property name="modified">2020-07-23T10:47:55</property>
     <property name="originalScheme">_@user_Solarized Light</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.7" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
-  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="LINE_SPACING" value="1.8" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
