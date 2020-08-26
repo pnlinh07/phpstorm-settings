@@ -4,12 +4,12 @@
     <property name="created">2019-03-27T14:09:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2020-08-25T14:20:03</property>
+    <property name="modified">2020-08-26T13:45:44</property>
     <property name="originalScheme">GitHub</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.1" />
   <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="SF Mono" />
+  <option name="EDITOR_FONT_NAME" value="FuraCode Nerd Font" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo for Powerline" />
   <option name="CONSOLE_LIGATURES" value="true" />
