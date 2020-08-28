@@ -4,12 +4,12 @@
     <property name="created">2019-03-29T09:35:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-08-28T13:23:09</property>
+    <property name="modified">2020-08-28T16:57:47</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.0" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <attributes>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_CODE_TEXT">

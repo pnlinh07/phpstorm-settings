@@ -4,10 +4,10 @@
     <property name="created">2019-01-10T22:38:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2020-08-27T11:33:52</property>
+    <property name="modified">2020-08-28T17:01:05</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="2.0" />
+  <option name="LINE_SPACING" value="1.7" />
   <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
