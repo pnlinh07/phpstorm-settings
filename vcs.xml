@@ -22,6 +22,10 @@
           <option name="url" value="http://github.com/xnohat/nhathuoc.git" />
           <option name="userName" value="pnlinh" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com/primeproduction/kol-api.git" />
+          <option name="userName" value="pnlinh07" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
