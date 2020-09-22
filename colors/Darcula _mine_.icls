@@ -4,10 +4,10 @@
     <property name="created">2019-09-27T10:27:23</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2020-09-04T16:40:59</property>
+    <property name="modified">2020-09-22T20:42:02</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="2.0" />
+  <option name="LINE_SPACING" value="1.8" />
   <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="EDITOR_FONT_NAME" value="Menlo for Powerline" />
   <option name="EDITOR_LIGATURES" value="true" />
