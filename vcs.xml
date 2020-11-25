@@ -30,6 +30,10 @@
           <option name="url" value="http://github.com/primeproduction/prime-company-api.git" />
           <option name="userName" value="pnlinh07" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com/primeproduction/prime-company-crm.git" />
+          <option name="userName" value="pnlinh07" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
