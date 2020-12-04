@@ -1,7 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping ext="blade" type="Native" />
       <mapping pattern="press" type="PHP" />
       <mapping pattern=".bablerc" type="PLAIN_TEXT" />
