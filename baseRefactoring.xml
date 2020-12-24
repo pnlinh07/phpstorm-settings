@@ -9,6 +9,6 @@
   <component name="PhpRefactoringSettings">
     <option name="RENAME_FIELD_ACCESSORS" value="false" />
     <option name="RENAME_PARAMETERS" value="false" />
-    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
   </component>
 </application>
