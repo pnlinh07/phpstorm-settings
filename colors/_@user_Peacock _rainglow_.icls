@@ -4,7 +4,7 @@
     <property name="created">2018-09-26T09:18:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2020-08-02T21:01:11</property>
+    <property name="modified">2020-12-25T09:01:52</property>
     <property name="originalScheme">Peacock (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.7" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
