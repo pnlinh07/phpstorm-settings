@@ -4,15 +4,16 @@
     <property name="created">2019-01-10T22:38:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2021-01-05T13:18:22</property>
+    <property name="modified">2021-01-13T09:15:10</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.8" />
+  <option name="LINE_SPACING" value="1.9" />
   <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="Hack" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.8" />
   <attributes>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_CODE_TEXT">
       <value>
