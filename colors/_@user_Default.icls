@@ -4,12 +4,12 @@
     <property name="created">2019-01-10T22:38:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2021-01-20T13:55:25</property>
+    <property name="modified">2021-02-23T14:13:50</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.9" />
+  <option name="LINE_SPACING" value="1.7" />
   <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
