@@ -7,6 +7,8 @@
       <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
+      <removed_mapping ext="permissionset" approved="true" type="XML" />
+      <removed_mapping ext="profile" approved="true" type="XML" />
     </extensionMap>
   </component>
 </application>
