@@ -4,6 +4,8 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Menlo for Powerline" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="RegularForPowerline" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="RegularForPowerline" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
   <component name="EditorSettings">
