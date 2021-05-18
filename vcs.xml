@@ -42,6 +42,10 @@
           <option name="url" value="http://github.com/primeproduction/prime-web-api.git" />
           <option name="userName" value="pnlinh07" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com/primeproduction/sso-api.git" />
+          <option name="userName" value="pnlinh07" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
