@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping ext="blade" type="Native" />
       <mapping pattern="press" type="PHP" />
-      <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping pattern=".bablerc" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
