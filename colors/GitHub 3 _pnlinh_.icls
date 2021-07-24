@@ -4,12 +4,12 @@
     <property name="created">2020-08-02T21:00:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-09-01T11:06:46</property>
+    <property name="modified">2021-07-24T15:40:50</property>
     <property name="originalScheme">GitHub 3 copy</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.8" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="LINE_SPACING" value="1.7" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="SF Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="fffbdd" />
