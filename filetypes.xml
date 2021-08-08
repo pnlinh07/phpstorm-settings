@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="start-container.sh" type="AUTO_DETECTED" />
+      <mapping pattern="develop" type="AUTO_DETECTED" />
       <mapping pattern="start-container" type="Native" />
       <mapping ext="blade" type="Native" />
       <mapping pattern="press" type="PHP" />
