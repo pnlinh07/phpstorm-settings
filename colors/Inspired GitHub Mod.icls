@@ -4,13 +4,15 @@
     <property name="created">2021-07-24T12:59:34</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2021-08-18T13:15:51</property>
+    <property name="modified">2021-08-18T13:28:09</property>
     <property name="originalScheme">Inspired GitHub copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.7" />
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro for Powerline" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
