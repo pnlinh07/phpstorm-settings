@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
+  <action id="Tool_External Tools_Php Cs fixer">
+    <keyboard-shortcut first-keystroke="ctrl meta close_bracket" />
+  </action>
+</keymap>

@@ -1,0 +1,15 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Rearrange tag attributes" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="Language injection/Edit injection settings" />
+    <ignoreAction name="RegExp/Check RegExp" />
+    <ignoreAction name="Language injection/Edit injected fragment" />
+    <ignoreAction name="Language injection/Uninject language or reference" />
+    <ignoreAction name="Language injection/Inject language or reference" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Replace nested calls with pipe expression" />
+    <ignoreAction name="PHP/Convert string literal to HEREDOC/NOWDOC" />
+  </component>
+</application>
