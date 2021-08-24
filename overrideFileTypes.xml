@@ -1,5 +1,10 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/workspace/prime/distribution-api/Dockerfile.development" value="Dockerfile" />
+    <file url="file://$USER_HOME$/workspace/prime/distribution-api/Dockerfile.development-2" value="Dockerfile" />
+    <file url="file://$USER_HOME$/workspace/prime/distribution-api/Dockerfile.production" value="Dockerfile" />
+    <file url="file://$USER_HOME$/workspace/prime/distribution-api/Dockerfile.tm-development" value="Dockerfile" />
+    <file url="file://$USER_HOME$/workspace/prime/distribution-api/Dockerfile.tm-production" value="Dockerfile" />
     <file url="file://$USER_HOME$/workspace/prime/distribution-api/docker/production/default" value="Smarty" />
     <file url="file://$USER_HOME$/workspace/prime/distribution-api/docker/production/start-container" value="Shell Script" />
   </component>
