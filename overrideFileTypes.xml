@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/workspace/prime/distribution-api/docker/production/default" value="Smarty" />
     <file url="file://$USER_HOME$/workspace/prime/distribution-api/docker/production/start-container" value="Shell Script" />
   </component>
 </application>
